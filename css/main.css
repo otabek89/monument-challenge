@@ -5,7 +5,7 @@
 
 body{
     border-left: 6px solid lightgrey;
-    height: 1750px;
+    height: 1680px;
     position: relative;
     left: 7%;
     margin-left: 15px;
@@ -50,25 +50,28 @@ article p:first-letter {
   font-family: Georgia;
   font-size: 75px;
   line-height: 60px;
-  padding-top: 4px;
-  padding-right: 8px;
-  padding-left: 3px;
+  padding-top: 5px;
+  padding-right: 10px;
+  padding-left: 4px;
 }
 
 h4 a{
 	color: gold;
     text-decoration: none;
-    text-align: right;
+    position: absolute;
+    right: 5%;
+   
 }
 
 footer nav a{
 	color: gold;
 	text-decoration: none;
-	font-size: 19px;
+    font-size: 14px;
+    padding: 2px;
 }
 
 footer p{
 	color: lightgrey;
-    font-size: 22px;
+    font-size: 24px;
 }
 
